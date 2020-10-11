@@ -1,4 +1,6 @@
-public class Solution {
+package easy;
+
+public class detectCycle {
     public ListNode detectCycle(ListNode head) {
         int k=0;
         boolean flag=false;
