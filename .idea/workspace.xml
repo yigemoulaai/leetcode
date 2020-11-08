@@ -2,120 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25d3fe5f-0db7-48b1-b72a-2ae99b453e89" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Fault/countRangeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fault/maxProfitAssignment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fault/testjob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/kmpSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/booknote/GraphChapter/BFSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/booknote/GraphChapter/Bag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/booknote/GraphChapter/DFSPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/booknote/GraphChapter/DFSearchLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/booknote/GraphChapter/DFSearchStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/booknote/GraphChapter/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/booknote/GraphChapter/SymbolGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/booknote/GraphChapter/TwoColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/booknote/GraphChapter/testClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/backspaceCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/canJump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/coinChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/commonChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/deepestLeavesSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/duplicateZeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/findMode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/hasCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/insertInterval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/intersection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/isLongPressedName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/isPalindromeLinknode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/jrAnswer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/kechongfuPackage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/ladderLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/lengthOfLIS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/levelOrderBottom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/longestMountain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/maxArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/maxProfit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/maxTurbulenceSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/minDeletionSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/prefect_connect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/reorderList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/reverseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/rotateRight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/smallerNumbersThanCurrent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/sortByBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/sortedSquares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/sumNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/sushunum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/swapPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/uniqueOccurrences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/uniquePaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/validMountainArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/videoStitching.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/wordBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graph/Edge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graph/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graph/Vertex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graph/prim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/swordto_offer/kthToLast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/symbolG.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tiny1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Fault/findMaxFormTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Fault/testjobTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/algorithm/kmpSearchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/easy/backspaceCompareTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/easy/coinChangeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/easy/commonCharsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/easy/countRangeSumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/easy/duplicateZerosTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/easy/insertIntervalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/easy/jrAnswerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/easy/kechongfuPackageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/easy/ladderLengthTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/easy/lengthOfLISTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/easy/longestMountainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/easy/maxProfitAssignmentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/easy/maxTurbulenceSizeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/easy/removeNthFromEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/easy/sortByBitsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/easy/sortedSquaresTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/easy/sushunumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/easy/uniqueOccurrencesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/easy/validMountainArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/easy/videoStitchingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/easy/wordBreakTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/graph/primTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Fault/findMaxForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Fault/findMaxForm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/easy/Package.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/easy/Package.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/easy/Solution1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/easy/delNodes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/easy/delNodes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/easy/insertIntoBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/easy/insertIntoBST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/easy/lengthOfLongestSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/easy/lengthOfLongestSubstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/easy/minCostClimbingStairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/easy/minCostClimbingStairs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/easy/minimumOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/easy/minimumOperations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/easy/preorderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/easy/preorderTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/easy/shor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/easy/shor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/leetcode/easy/PackageTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/leetcode/easy/Solution1Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/leetcode/easy/Solution1Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/leetcode/easy/shorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/leetcode/easy/shorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fault/findMaxForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fault/findMaxForm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/Package.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/Package.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/delNodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/delNodes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/insertIntoBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/insertIntoBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/lengthOfLongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/lengthOfLongestSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/matrixBlockSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/matrixBlockSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/minCostClimbingStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/minCostClimbingStairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/minimumOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/minimumOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/preorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/preorderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/shor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/shor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/easy/PackageTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/easy/Solution1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/easy/Solution1Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/easy/canPartition.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/easy/canPartition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/easy/canPartitionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/easy/canPartitionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/easy/shorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/easy/shorTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -426,18 +313,6 @@
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Fault" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -453,7 +328,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1604837835899" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1604838526143" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -701,7 +576,7 @@
       <workItem from="1604550310116" duration="21080000" />
       <workItem from="1604662994103" duration="3086000" />
       <workItem from="1604731565696" duration="6740000" />
-      <workItem from="1604834063715" duration="3743000" />
+      <workItem from="1604834063715" duration="4058000" />
     </task>
     <servers />
   </component>
@@ -738,7 +613,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="307953000" />
+    <option name="totallyTimeSpent" value="308268000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -752,7 +627,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4964706" visible="true" weight="0.19638069" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4964706" visible="true" weight="0.19638069" />
       <window_info id="Structure" order="1" sideWeight="0.5035294" side_tool="true" weight="0.19369973" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -768,7 +643,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3286119" />
       <window_info anchor="bottom" id="Sequence" order="12" />
