@@ -22,6 +22,9 @@ public class canPartition {
                     if(nums[i]>sum/2)
                         return false;
                 }
+                /*定义一个二维数组 行代表第n个商品，列代表背包的空间
+                dp[i][j]=dp[i-1][j]||dp[i-1][j-nums[i]](当j>nums[i]时)
+                * */
                 boolean[][] dp=new boolean[nums.length][sum/2+1];
                 for(int i=0;i<nums.length;i++)
                 {
@@ -45,7 +48,7 @@ public class canPartition {
                                 if(!dp[i][j]) dp[i][j]=dp[i-1][j];
                             }
                         }
-                        System.out.println(dp[i][j]);
+                       // System.out.println(dp[i][j]);
                     }
                 }
 

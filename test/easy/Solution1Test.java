@@ -8,6 +8,6 @@ public class Solution1Test {
 
     @Test
     public void lengthOfLongestSubstring() {
-        System.out.println(new Solution1().lengthOfLongestSubstring("adwerssd"));
+        System.out.println(new lengthOfLongestSubstring().lengthOfLongestSubstring("adwerssd"));
     }
 }

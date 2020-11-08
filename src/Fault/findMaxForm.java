@@ -1,9 +1,13 @@
 package Fault;
-
+/*
+* 给你一个二进制字符串数组 strs 和两个整数 m 和 n 。
+请你找出并返回 strs 的最大子集的大小，该子集中 最多 有 m 个 0 和 n 个 1 。
+如果 x 的所有元素也是 y 的元素，集合 x 是集合 y 的 子集 。
+*/
 public class findMaxForm {
     public int findMaxForm(String[] strs, int m, int n) {
         int[][] num=new int[strs.length][2];
-        int[][] k=new int[m+1][n+1];
+        int[][] dp=new int[n+1][m+1];
         for(int i=0;i<strs.length;i++)
         {
             char[] chars=strs[i].toCharArray();
@@ -14,40 +18,21 @@ public class findMaxForm {
                 if(chars[j]=='1')
                     num[i][1]++;
             }
+            System.out.println(num[i][0]+"  "+num[i][1]);
         }
-        // System.out.println(num.length);
-        int sum=0,lm=m;
-        int ln=n;
-        for(int i=0;i<=lm;i++)
+        for(int k=0;k<strs.length;k++)
         {
-            for(int j=0;j<=ln;j++)
-            {
-                for(int z=0;z<num.length;z++)
-                {
-                    //  System.out.println(z);
-                    if(i>=num[z][0]&&j>=num[z][1]&&(num[z][0]!=0||num[z][1]!=0))
-                    {
-                        System.out.println(lm+"   "+ln);
-                        k[i][j]+=1;;
-                        num[z][0]=0;
-                        num[z][1]=0;
-                        lm=lm-i;
-                        ln=ln-j;
-                        //break;
-                    }
-                }
-            }
+            for(int i=n;i>=num[k][1];i--)
+       {
+           for(int j=m;j>=num[k][0];j--)
+           {
+
+                    dp[i][j]=Math.max(dp[i-num[k][1]][j-num[k][0]]+1,dp[i][j]);
+                    System.out.print(dp[i][j]);
+           }System.out.println();
+       }
+
         }
-        for(int i=0;i<=m;i++)
-            for(int j=0;j<=n;j++)
-            {
-                if(k[i][j]!=0)
-                {
-
-                    sum+=k[i][j];
-                }
-            }
-        return sum;
-
+        return dp[n][m];
     }
 }
