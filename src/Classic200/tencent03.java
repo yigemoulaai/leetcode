@@ -2,7 +2,7 @@ package Classic200;
 
 /**
  * @Author ACER
- * @Date:2022/3/11
+ * @Date:2022/4/24
  */
-public interface ITreeNode {
+public class tencent03 {
 }
